@@ -8,7 +8,6 @@
 
 <em>This project implements a multithreaded Java HTTP proxy server with disk-based caching that stores and reuses server responses to reduce repeated network requests</em>
 
-<!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/Proxy-Server?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/amiliceviic/Proxy-Server?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/Proxy-Server?style=flat&color=0080ff" alt="repo-language-count">
