@@ -80,11 +80,6 @@ Run the project with:
 
 echo 'INSERT-RUN-COMMAND-HERE'
 
-### 🧪 Testing
-
-Proxy-server uses the {__test_framework__} test framework. Run the test suite with:
-
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
