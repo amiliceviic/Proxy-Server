@@ -84,7 +84,6 @@ echo 'INSERT-RUN-COMMAND-HERE'
 
 Proxy-server uses the {__test_framework__} test framework. Run the test suite with:
 
-echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
